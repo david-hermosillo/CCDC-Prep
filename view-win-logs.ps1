@@ -1,0 +1,1 @@
+﻿Get-WinEvent -LogName Security -MaxEvents 50 | Format-Table TimeCreated,Id,LevelDisplayName,Message -AutoSize
