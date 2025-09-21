@@ -1,0 +1,1 @@
+﻿Get-WindowsUpdate -Install -AcceptAll -AutoReboot
