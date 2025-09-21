@@ -1,1 +1,1 @@
-﻿powershell.exe -ExecutionPolicy Bypass -File C:\Users\Administrator\Downloads\
+﻿powershell.exe -ExecutionPolicy Bypass -File 
