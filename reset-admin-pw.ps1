@@ -1,0 +1,1 @@
+﻿Set-LocalUser -Name "Administrator" -Password (Read-Host -AsSecureString "New Admin Password")
