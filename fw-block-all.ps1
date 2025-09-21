@@ -1,0 +1,1 @@
+﻿Set-NetFirewallProfile -profile Domain,Public,Private -DefaultInboundAction Block
